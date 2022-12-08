@@ -1,4 +1,4 @@
-# Name
+# DoubleDash
 A useful collection of css variables.
 
 ## Table of Contents 
