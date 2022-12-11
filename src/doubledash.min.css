@@ -4,3 +4,4 @@
  * Copyright 2022 Guglielmo Pepe <info@guglielmopepe.com> (https://www.guglielmopepe.com)
  * Licensed under MIT (https://github.com/GuglielmoPepe/doubledash/blob/master/license.md)
  */
+:root{--dd-space--none:0;--dd--space--octave--monotonic--item-1:1;--dd--space--octave--monotonic--item-2:2;--dd--space--octave--monotonic--item-3:4;--dd--space--octave--monotonic--item-4:8;--dd--space--octave--monotonic--item-5:16;--dd--space--octave--monotonic--item-6:32;--dd--space--octave--monotonic--item-7:64;--dd--space--octave--monotonic--item-8:128;--dd--space--octave--monotonic--item-9:256;--dd--space--octave--monotonic--item-10:512;--dd--space--octave--monotonic--item-11:1024;}
