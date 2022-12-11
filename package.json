@@ -1,0 +1,22 @@
+{
+  "name": "doubledash.css",
+  "version": "0.1.0",
+  "description": "A useful collection of CSS variables for web developers with best practices in mind",
+  "main": "src/doubledash.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuglielmoPepe/doubledash"
+  },
+  "keywords": [
+    "css",
+    "best practices",
+    "awesome list"
+  ],
+  "author": "Guglielmo Pepe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuglielmoPepe/doubledash/issues"
+  },
+  "homepage": "https://guglielmopepe.github.io/doubledash/"
+}
+

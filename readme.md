@@ -1,64 +1,121 @@
-# DoubleDash
-A useful collection of css variables.
+# Double Dash
 
-## Table of Contents 
-* [Benefits](#benefits)
-* [Features](#features)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Documentation](#documentation)
-* [Support](#support)
-* [Faq](#faq)
-* [Contributing](#contributing)
-* [Contacts](#contacts)
-* [Roadmap](#roadmap)
-* [Change log](#change-log)
-* [License](#license)
+**Under development! Don't use in production!**
+
+**Double Dash** is a useful collection of CSS variables, [like myself](https://www.guglielmopepe.com/?utm_source=github.com&utm_medium=readme&utm_campaign=doubledash.css) with best practices in mind. Current `main` points to version 0.1.0 of the collection. 
 
 
-## Benefits
 
-## Features
+## How to add it?
 
-## Prerequisites
+You can download minified or unminified version.
 
-## Installation
-Use Composer
 
-``` bash
-$ composer require guglielmopepe/doubledash
+
+### Minified version
+
+You can download minified version [doubledash.min.css](https://raw.githubusercontent.com/GuglielmoPepe/doubledash/main/src/doubledash.min.css) and use together with your HTML by adding:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="doubledash.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
 ```
 
-## Usage
+You can use too jsdelivr for link latest minified version of the **Double Dash**:
 
-## Documentation
-The convention for naming variable css is `--prefix--category-name--item-name`.
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/doubledash/src/doubledash.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
+```
 
-## Support
-If you have a request, please create a GitHub [issue](https://github.com/GuglielmoPepe/doubledash/issues).
+If you want loading an exact minified version of the **Double Dash** use jsdelivr with version:
 
-## Faq
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/doubledash@1.0.0/src/doubledash.min.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
+```
 
 
-## Contributing
-If you want to say **thank you** and/or support the active development of `doubledash`:
+### Unminified version
 
-1. Add a [GitHub Star](https://github.com/GuglielmoPepe/doubledash/stargazers) to the project.
-2. Share the project on social media.
-3. Write a review or tutorial on [Medium](https://medium.com/), [Dev.to](https://dev.to/) or personal blog.
+**Double Dash** is also available as unminified stylesheet, which can be handy during styling.
 
-## Contacts
-If you need information please send an email to [&#105;&#110;&#102;&#111;&#64;&#103;&#117;&#103;&#108;&#105;&#101;&#108;&#109;&#111;&#112;&#101;&#112;&#101;&#46;&#99;&#111;&#109;](&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6e%66%6f%40%67%75%67%6c%69%65%6c%6d%6f%70%65%70%65%2e%63%6f%6d).
+You can download minified version [doubledash.css](https://raw.githubusercontent.com/GuglielmoPepe/doubledash/main/src/doubledash.css) and use together with your HTML by adding:
 
-## Roadmap
-See the list of [open issues](https://github.com/GuglielmoPepe/doubledash/issues):
-- [enhancement](https://github.com/GuglielmoPepe/doubledash/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc)
-- [bugs](https://github.com/GuglielmoPepe/doubledash/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) 
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="doubledash.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
+```
+
+You can use too jsdelivr for link latest unminified version of the **Double Dash**:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/doubledash/src/doubledash.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
+```
+
+If you want loading an exact unminified version of the **Double Dash** use jsdelivr with version:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/GuglielmoPepe/doubledash@1.0.0/src/doubledash.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+</html>
+```
+
+
+## Browser support
+
+- Chrome (last 3)
+- Edge (last 3)
+- Firefox (last 3)
+- Firefox ESR
+- Opera (last 3)
+- Safari (last 3)
+- iOS Safari (last 2)
+- Internet Explorer 9+
+
+
+
+## Got questions? Any troubles?
+If you have questions or general suggestions, don't hesitate to submit a new [Github issue](https://github.com/GuglielmoPepe/doubledash/issues).
+
 
 
 ## Change log
-Please see [Changelog file](changelog.md) for more information on what has changed recently.
+Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
+
+
 
 ## License
-Distributed under the MIT License. Please see [License File](license.md) for more information.
+The MIT License. Please see [License File](LICENSE) for more information.
+
+
